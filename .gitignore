@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML / Data
+data/
+*.csv
+*.h5
+*.pkl
+
+# OS / IDE
+.vscode/
+.idea/
+.
